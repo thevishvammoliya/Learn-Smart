@@ -21,7 +21,7 @@ This Streamlit application allows you to upload PDF files, process their text, a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/KandarpJoshi1112/Learn-Smart
+   git clone https://github.com/thevishvammoliya/Learn-Smart
    cd Learn-Smart
    ```
 
@@ -109,6 +109,7 @@ PyPDF2
 chromadb
 faiss-cpu
 langchain_google_genai
+langchain_community
 ```
 
 ## Environment Variables

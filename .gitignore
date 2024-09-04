@@ -1,5 +1,4 @@
 .env
-virtual_env
+venv
 faiss_index
-app1.py
-app2.py
+__pycache__

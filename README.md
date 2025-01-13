@@ -1,5 +1,7 @@
 # LearnSmart 😎
 
+learn-smart.streamlit.app
+
 This Streamlit application allows you to upload PDF files, process their text, and interact with the content using natural language queries powered by Google Gemini AI.
 
 ## Features
